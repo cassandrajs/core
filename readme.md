@@ -1,4 +1,4 @@
-# Cassandra Core
+# CassandraJS Core
 
 X
 
