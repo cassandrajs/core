@@ -1,6 +1,6 @@
 # CassandraJS Core
 
-X
+A JavaScript driver that handles Apache Cassandra® cluster connectivity and request execution.
 
 ## Credits
 
