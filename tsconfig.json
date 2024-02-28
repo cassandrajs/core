@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"outDir": "dist",
+		"module": "esnext",
+		"target": "ESNext",
+		"declaration": true,
+		"moduleResolution": "node",
+		"allowSyntheticDefaultImports": true,
+		"esModuleInterop": true,
+		"isolatedModules": true,
+		"skipLibCheck": true
+	},
+	"include": ["src"],
+	"exclude": ["node_modules", "dist"],
+	"files": ["src/index.ts"]
+}
